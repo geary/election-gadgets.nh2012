@@ -541,7 +541,7 @@ document.write(
 	'</div>',
 	'<div id="maptip">',
 	'</div>',
-	'<a id="ap-logo" class="logo" target="_blank" href="http://www.youtube.com/ap" title="Data from the Associated Press">',
+	'<a id="ap-logo" class="logo" target="_blank" href="http://www.youtube.com/apelections" title="Data from the Associated Press">',
 	'</a>',
 	'<a id="google-logo" class="logo" target="_blank" href="http://www.google.com/elections" title="Google Politics & Elections">',
 	'</a>',
